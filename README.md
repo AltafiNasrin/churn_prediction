@@ -58,3 +58,16 @@ are the strongest contributors to churn prediction.
   - External or longitudinal data
 
 ## Repository Structure
+
+
+## How to Run
+1. Clone the repository  
+2. Open `01_churn_eda_modeling.ipynb`  
+3. Run all cells top to bottom  
+
+All results are reproducible using fixed random seeds.
+
+## Notebook
+📓 Main analysis notebook:  
+[`01_churn_eda_modeling.ipynb`](01_churn_eda_modeling.ipynb)
+
