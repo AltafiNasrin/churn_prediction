@@ -72,4 +72,4 @@ All results are reproducible using fixed random seeds.
 
 ## Notebook
 📓 Main analysis notebook:  
-[`01_churn_eda_modeling.ipynb`](01_churn_eda_modeling.ipynb)
+[`01_churn_eda_modeling.py.ipynb`](01_churn_eda_modeling.ipynb)
